@@ -11,7 +11,7 @@ There are 4 main components of this project:
 
 The user can implement any one of the above encryptions directly from the terminal for which he/shse needs to run all the .c files simultaneously and then follow the following command:
 
-                                     ./<exe name>  -e -c v -k LEMON -s "ATTACKATDAWN" or -f <filename.txt>
+                    ./<exe name>  -e -c v -k KEY -s "STRING" or -f <filename.txt>
 
 
 -e is for encryption  
